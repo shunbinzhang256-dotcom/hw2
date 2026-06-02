@@ -1,0 +1,17 @@
+torch
+torchvision
+torchaudio
+timm
+ultralytics
+opencv-python
+scipy
+matplotlib
+pandas
+tqdm
+pyyaml
+wandb
+kaggle
+yt-dlp
+lap
+reportlab
+pymupdf

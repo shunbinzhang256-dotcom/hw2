@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+data/
+weights/
+outputs/
+runs/
+wandb/
+*.pt
+*.pth
+*.mp4
+*.avi
+*.zip
+*.tgz
+*.tar.gz
+
+# 实验报告（含个人信息，单独提交，不入公开仓库）
+reports/
